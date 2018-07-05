@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<reply>
+    <keyword term='おはよう'>
+        <comment last_time='1275971917' count='12' content='#user_name#さん、私、#user_name#さんが起きるの待ってました'/>
+        <comment last_time='1275967057' count='18' content='おはよう！おはよう！#user_name#さん、おはようございます！'/>
+        <comment last_time='1275971815' count='11' content='#user_name#さん、おはようございます！ちゃんと眠れました？'/>
+        <comment last_time='1275971849' count='14' content='おはようございます！#user_name#さん'/>
+        <comment last_time='1275971782' count='16' content='#user_name#さん、おはよう。早起きですね'/>
+    </keyword>
+    <keyword term='おはよー'>
+        <comment last_time='1264023017' count='10' content='#user_name#さん、私、#user_name#さんが起きるの待ってました'/>
+        <comment last_time='1264375027' count='14' content='おはよう！おはよう！#user_name#さん、おはようございます！'/>
+        <comment last_time='1264199827' count='10' content='#user_name#さん、おはようございます！ちゃんと眠れました？'/>
+        <comment last_time='1264344586' count='10' content='おはようございます！#user_name#さん'/>
+        <comment last_time='1264028827' count='13' content='#user_name#さん、おはよう。早起きですね'/>
+    </keyword>
+    <keyword term='むくり'>
+        <comment last_time='1264023017' count='10' content='おはよう！#user_name#さん、さあ、お布団から出てください'/>
+        <comment last_time='1264375027' count='14' content='#user_name#さん、あわわ、どうしたんですか？その顔。早く洗面所へ行って下さい'/>
+        <comment last_time='1264199827' count='10' content='#user_name#さん、おはようございます！ちゃんと眠れました？'/>
+        <comment last_time='1275967057' count='11' content='おはようございます！#user_name#さん'/>
+    </keyword>
+    <keyword term='おやすみ'>
+        <comment last_time='1276007938' count='251' content='#user_name#さん、お休みなさい♪'/>
+        <comment last_time='1276008006' count='265' content='#user_name#さん、グッナイ！ぐっすり休んで下さいね'/>
+    </keyword>
+    <keyword term='寝ます'>
+        <comment last_time='1264422008' count='243' content='#user_name#さん、お休みなさい♪'/>
+        <comment last_time='1264403708' count='260' content='#user_name#さん、グッナイ！ぐっすり休んで下さいね'/>
+    </keyword>
+    <keyword term='いってきます'>
+        <comment last_time='1275976102' count='6' content='#user_name#さん、いってらっしゃい'/>
+        <comment last_time='1275975967' count='1' content='#user_name#さん、気をつけてね'/>
+    </keyword>
+    <keyword term='ただいま'>
+        <comment last_time='1275988058' count='6' content='#user_name#さん、おかえり。おつかれ'/>
+        <comment last_time='1276004360' count='5' content='#user_name#さん、おかえり。待ってましたよ'/>
+    </keyword>
+    <keyword term='いおりょぎ'>
+        <comment last_time='1263368049' count='2' content='え？いおりょぎさんをご存じなんですか？'/>
+        <comment last_time='1264338667' count='3' content='ｶﾞﾀｶﾞﾀ･･･'/>
+    </keyword>
+    <keyword term='藤本'>
+        <comment last_time='1264275187' count='5' content='え！藤本さんをごぞんじですか'/>
+        <comment last_time='1264032250' count='5' content='藤本さんのためならなんだって私はします'/>
+    </keyword>
+    <keyword term='何時'>
+            <comment last_time='1264341853' count='24' content='#user_name#、今は#time#だよ。'/>
+            <comment last_time='1264341853' count='24' content='まだ#time#だよ。#user_name#、がんばってね！'/>
+    </keyword>
+    <keyword term='何日'>
+            <comment last_time='1264425738' count='25' content='#user_name#、今日は#date#だよ。'/>
+            <comment last_time='1264341853' count='24' content='まだ#date#だよ。#user_name#、がんばってね！'/>
+    </keyword>
+</reply>

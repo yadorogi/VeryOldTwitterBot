@@ -1,0 +1,11 @@
+--- 
+bot:
+  login: ko_bot
+  password: XXXX
+  post_random: true
+  interval: 180
+  oauth:
+    consumer_key: XXXXX
+    consumer_secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
